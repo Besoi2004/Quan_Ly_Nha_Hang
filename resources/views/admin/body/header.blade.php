@@ -184,17 +184,17 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="profileDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <img src="{{ asset('backend/assets/images/ff1.jpg') }} " width="100" height="100" class="circle-img2">
+                    <img src="{{ asset('backend/assets/images/ff2.webp') }} " width="100" height="100" class="circle-img2">
                 </a>
                 <div class="dropdown-menu p-0" aria-labelledby="profileDropdown">
                     <div class="d-flex flex-column align-items-center border-bottom px-5 py-3">
                         <div class="mb-3">
-                          <img src="{{ asset('backend/assets/images/ff1.jpg') }} " width="100" height="100" class="circle-img1" >
+                          <img src="{{ asset('backend/assets/images/ff2.webp') }} " width="100" height="100" class="circle-img1" >
                         </div>
                         <style>
                           .circle-img1 {
-                          width: 200px;  
-                          height: 200px; 
+                          width: 250px;  
+                          height: 250px; 
                           border-radius: 50%; 
                           object-fit: cover; 
                           }
