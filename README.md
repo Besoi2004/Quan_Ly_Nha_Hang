@@ -70,6 +70,8 @@ laravel_food/
 ## Nhóm phát triển
 - Quản lý dự án: [Quản lý nhà hàng]
 - Developer: [Nguyễn Huy Tấn]
+- Developer: [Nguyễn Hoàng Sơn]
+- Developer: [Lê Minh Quân]
 
 ## Liên hệ
 - Email: [22010078@st.phenikaa-uni.edu.vn]
